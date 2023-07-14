@@ -111,7 +111,7 @@ form textarea:active {
 }
 
 .back-section {
-    background-image: url('./images/specialty-bg.png');
+    background-image: url('../images/specialty-bg.png');
     background-repeat: no-repeat;
     background-size: cover;
 }
