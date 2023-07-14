@@ -105,13 +105,13 @@ form textarea:active {
 
 
 .back {
-    background-image: url("./images/bg-header.png");
+    background-image: url("/images/bg-header.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .back-section {
-    background-image: url("./images/specialty-bg.png");
+    background-image: url("/images/specialty-bg.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
